@@ -153,7 +153,7 @@ body {
                         }
                         &:hover{
                             .heading{
-                                border-bottom: 1px solid #ce6e6e;
+                                border-bottom: 1px solid rgba(255, 255, 255, 0.1);
                                 .title{
                                     h4{
                                         color: var(--color-white);
@@ -1295,7 +1295,7 @@ body {
 
                     &:hover {
                         .heading {
-                            border-bottom: 1px solid rgb(206, 110, 110);
+                            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 
                             .title {
                                 h4 {

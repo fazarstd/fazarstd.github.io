@@ -126,7 +126,7 @@
                 }
 
                 span {
-                    color: #ff014f;
+                    color: #6A42C2;
                 }
 
                 .header-caption {
@@ -812,7 +812,7 @@
             }
 
             span {
-                color: #ff014f;
+                color: #6A42C2;
 
                 @media #{$large-mobile} {
                     font-size: 32px;
@@ -979,7 +979,7 @@
             img {
                 border: none;
                 background-size: 400% 400%;
-                background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+                background: linear-gradient(-45deg, #ee7752, #6b3a9c, #23a6d5, #23d5ab);
             }
         }
 
@@ -1125,7 +1125,7 @@
     left: 50%;
     height: 100%;
     width: 100%;
-    background: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+    background: linear-gradient(60deg, #f79533, #f37055, #8f42c2, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
     border-radius: 50%;
     z-index: -1;
     animation: animatedgradient 2s ease alternate infinite;
